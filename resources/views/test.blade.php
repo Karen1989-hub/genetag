@@ -1,2 +1,2 @@
 Yerevan
-new porc
+new porc 22
